@@ -1,4 +1,4 @@
-#🌧️ RAINFALL SIMULATOR 🌧️
+# 🌧️ RAINFALL SIMULATOR 🌧️
 Welcome to the Rainfall Simulator! This project simulates rainfall intensity by controlling the flow rate of water using an Arduino Nano and a motorized ball valve.
 
 🚀 Features
