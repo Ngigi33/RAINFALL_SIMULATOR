@@ -5,8 +5,11 @@ Welcome to the Rainfall Simulator! This project simulates rainfall intensity by 
   - Simulates different rainfall intensities from a light drizzle to a heavy downpour.
   - Arduino Nano based control system.
   - Motorized ball valve for precise control over water flow.
+  - 
 
 # Images and videoes
+
+https://drive.google.com/drive/folders/13So7BPBvDhUtiD6CqsoQv84eNOTcyUVr?usp=drive_link
 
 ![WhatsApp Image 2024-01-04 at 22 40 43_44640e09](https://github.com/Ngigi33/RAINFALL_SIMULATOR/assets/101053582/10d86559-9556-4602-9b19-1534e2d61af9)
 ![WhatsApp Image 2024-01-04 at 22 43 42_50816885](https://github.com/Ngigi33/RAINFALL_SIMULATOR/assets/101053582/0ad5a3d6-0cc3-4bc1-b2d8-3adb34fb906a)
